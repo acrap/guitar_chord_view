@@ -1,0 +1,1 @@
+include ':guitar_chord_view_lib',':app'
